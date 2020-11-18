@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="click_here_to_load_more">Click Here To Load More...</string>
+    <string name="first_name">First Name</string>
+    <string name="detail_screen">Detail Screen</string>
+    <string name="last_name">Last Name</string>
+    <string name="Email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="submit">Submit</string>
+</resources>
